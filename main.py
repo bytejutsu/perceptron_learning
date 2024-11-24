@@ -16,7 +16,7 @@ def perceptron_learning(samples, labels, learning_rate=0.1, max_epochs=100):
         print(f"\nEpoch {epochs + 1}:")
 
         for i, sample in enumerate(samples):
-            # Compute f(x)
+            # Compute f(x) Evaluation Function
             fx = np.dot(weights, sample)
             # Compute g(x) Activation Function
             gx = 1 if fx > 0 else 0
