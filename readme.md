@@ -30,7 +30,7 @@
 ### Sample: [1. 1. 1.], Target: 1, f(x): 3.00, g(x): 1, Error: 0
 ### Sample: [1.  3.  0.5], Target: 0, f(x): -0.50, g(x): 0, Error: 0
 ### Sample: [1.  1.  2.5], Target: 1, f(x): 7.50, g(x): 1, Error: 0
-### Error converged to 0 so the Weights converged.
+### => Error converged to 0 so the Weights converged.
 
 ## Final weights: [ 1. -1.  3.]
 ## Total epochs: 2
