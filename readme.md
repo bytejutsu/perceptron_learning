@@ -1,6 +1,13 @@
-#### Evalutation Function fx = sum of wi * xi for i = 0 to n
-#### Activation Function: gx = 1 if fx > 0 else 0
-#### error = y - gx
+
+# Formuals
+
+![evaluation_activation_error_functions](evaluation_activation_error.png)
+
+# Perceptron Learning Rule (Hebbian Learning Rule)
+
+![general_rule](perceptron_learning_rule.png)
+![rule_explanation](perceptron_learning_rule_extended.png)
+
 # Input
 
 | X0 | X1 | X2 | Y |
