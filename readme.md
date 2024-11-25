@@ -1,3 +1,5 @@
+# Concept
+![perceptron_anatomy](perceptron_anatomy.webp)
 
 # Formuals
 
@@ -8,7 +10,13 @@
 ![general_rule](perceptron_learning_rule.png)
 ![rule_explanation](perceptron_learning_rule_extended.png)
 
-# Input
+### Perceptron Weight Adjustment Algorithm (No Learning Rate)
+
+![learning_algorithm](learning_algorithm.png)
+
+# Example of Applying the Learning Algorithm
+
+## Input
 
 | X0 | X1 | X2 | Y |
 |---|---|---|---|
@@ -58,3 +66,7 @@
 
 ## Final weights: [ 1. -1.  3.]
 ## Total epochs: 2
+
+# Boundry
+
+![classes_plot](classification_plot_boundry.png)
